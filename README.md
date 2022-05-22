@@ -13,3 +13,6 @@ How to use?
 2. Import your combo .txt file in same same folder
 3. Import your proxies .txt file in the same folder
 4. Run 
+
+Download here or trough mirror 2
+Mediafire download : https://www.mediafire.com/file/zfaalt73ocwtmrs/CBFOG.rar/file
